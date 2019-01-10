@@ -81,6 +81,15 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="A" destination="tmn-WD-ufa" id="O4c-A6-hsR"/>
+                        <outlet property="A2" destination="gpI-3q-WeN" id="hDH-7y-B4q"/>
+                        <outlet property="L" destination="A9w-2N-lLd" id="MWG-So-72q"/>
+                        <outlet property="N" destination="jf2-zP-ybD" id="OQX-hb-tHd"/>
+                        <outlet property="N2" destination="sa2-sx-SZn" id="7SX-Kr-gri"/>
+                        <outlet property="O" destination="GNf-rj-my8" id="pyo-WZ-y30"/>
+                        <outlet property="T" destination="cEB-v2-vd1" id="Z1k-XG-Hpv"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
